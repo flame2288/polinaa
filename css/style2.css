@@ -1,0 +1,168 @@
+body {
+    position: relative;
+    width: 1600px;
+    height: 900px;
+    background: #DFD2B1; 
+    }
+.ff{
+    /* p2 1 */
+
+
+position: absolute;
+width: 400px;
+height: 400px;
+left: 244px;
+top: 14px;
+
+background: url(p2.jpg);
+border-radius: 500px;
+}
+.fff{
+    /* p5 1 */
+
+
+position: absolute;
+width: 400px;
+height: 400px;
+left: 683px;
+top: 14px;
+
+background: url(p5.jpg);
+border-radius: 500px;
+}
+.ffff{
+    /* p1 1 */
+
+
+position: absolute;
+width: 400px;
+height: 400px;
+left: 44px;
+top: 450px;
+
+background: url(p1.jpg);
+border-radius: 400px;
+}
+.fffff{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 483px;
+    top: 450px;
+    
+    background: url(p4.jpg);
+    border-radius: 225px;
+}
+.ffffff{
+    /* p6 1 */
+
+
+position: absolute;
+width: 400px;
+height: 400px;
+left: 922px;
+top: 450px;
+
+background: url(p6.jpg);
+border-radius: 500px;
+}
+.h{
+    position: absolute;
+    width: 398px;
+    height: 62px;
+    left: 1189px;
+    top: 56px;
+    
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+.hh{
+    position: absolute;
+width: 398px;
+height: 62px;
+left: 1188px;
+top: 141px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+}
+.hhh{
+    position: absolute;
+width: 398px;
+height: 62px;
+left: 1189px;
+top: 226px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+}
+.hhhh{
+    position: absolute;
+width: 398px;
+height: 62px;
+left: 1189px;
+top: 311px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+}
+.hhhhh{
+    position: absolute;
+width: 398px;
+height: 62px;
+left: 1188px;
+top: 396px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+}
+.hhhhhh{position: absolute;
+    width: 398px;
+    height: 62px;
+    left: 1189px;
+    top: 481px;
+    
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #000000;
+
+}

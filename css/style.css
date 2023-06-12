@@ -1,0 +1,133 @@
+body {
+    position: relative;
+    width: 1600px;
+    height: 900px;
+    background: #DFD2B1; 
+    }
+
+.pp{
+/* Паталахова Полина Николаевна 13.06.2004 - ∞ */
+
+
+position: absolute;
+width: 625px;
+height: 100px;
+left: 487px;
+top: 65px;
+
+font-family: 'Pattaya';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 50px;
+text-align: center;
+
+color: #000000;
+
+}
+.ppp
+{
+position: absolute;
+width: 670px;
+height: 174px;
+left: 857px;
+top: 201px;
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+}
+.pppp{
+ position: absolute;
+width: 553px;
+height: 58px;
+left: 915px;
+top: 425px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+   
+}
+.aa{
+    /* Больше узнать о Полине можно: */
+
+
+position: absolute;
+width: 553px;
+height: 58px;
+left: 915px;
+top: 533px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+}
+.aaa{
+ /* ссылка на вк */
+
+
+position: absolute;
+width: 553px;
+height: 58px;
+left: 915px;
+top: 621px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+   
+}
+.aaaa{
+ /* polina 1 */
+
+
+position: absolute;
+width: 600px;
+height: 600px;
+left: 74px;
+top: 226px;
+
+background: url(polina.jpg);
+border-radius: 400px;   
+}
+.bb{
+/* ссылка на инстаграм */
+
+
+position: absolute;
+width: 553px;
+height: 58px;
+left: 915px;
+top: 709px;
+
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+}
